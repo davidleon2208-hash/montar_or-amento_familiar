@@ -17,12 +17,16 @@ Para obter melhores resultados com IA (NotebookLM), utilize fontes confiáveis:
 
 Banco Central do Brasil:
 Caderno de Educação Financeira — Gestão de Finanças Pessoais
+https://www.bcb.gov.br/pre/pef/port/caderno_formacao_treinadores.pdf
 CVM (Comissão de Valores Mobiliários):
 Guia da CVM para Investidores — Portal do Investidor
+https://www.gov.br/investidor/pt-br
 Banco Central (Relatório Focus):
 Última edição em PDF (dados de Selic, IPCA, PIB)
 Tesouro Direto:
 Livro Branco do Tesouro Direto
+https://www.tesourodireto.com.br/sobre-o-tesouro/quem-somos
+https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/28684_893377/livro_eletronico_completo.pdf
 3. 🧠 Engenharia de Prompts e "Cicatrizes"
 🔹 Prompt 1: O Genérico (Baixa Precisão)
 
