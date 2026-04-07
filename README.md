@@ -1,34 +1,52 @@
-# montar_orcamento_familiar
-O objetivo principal é alcançar um orçamento superavitário, onde as despesas sejam sempre menores que as receitas
+# Montar Orcamento Familiar
 
-Aqui estão os passos práticos detalhados:
-1. Anote todas as receitas e despesas
-O primeiro passo é registar toda a movimentação de recursos. Isso inclui todas as fontes de renda (salários, alugueres recebidos) e todos os gastos diários, por menores que sejam
-. É fundamental criar o hábito de anotar o valor gasto, o local e o meio de pagamento utilizado (dinheiro, cartão, Pix)
-.
-2. Agrupe por categorias
-Para entender para onde o dinheiro está a ir, agrupe os gastos em categorias como Habitação, Alimentação, Saúde, Educação, Transporte, Lazer e Financeiro
-. Este agrupamento permite identificar qual área da vida familiar está a consumir mais recursos
-.
-3. Analise a situação financeira
-Ao final do mês, compare o total recebido com o total gasto. Esta análise permite um retrato fiel da saúde financeira da família
-. Se as despesas forem superiores às receitas, é necessário estudar opções para aumentar os ganhos, diminuir os gastos ou ambos
-. Este é o momento de definir prioridades e cortar o que não é essencial
-.
-4. Planeie o mês seguinte
-Com base no histórico dos meses anteriores, faça uma estimativa das receitas e despesas para o mês seguinte
-. O planeamento ajuda a prever gastos futuros e a evitar surpresas
-. Especialistas recomendam que, após três ou quatro meses de prática, a capacidade de estimar gastos torna-se muito mais precisa
-.
-5. Estabeleça metas e a "Regra de Ouro"
-Um orçamento eficaz deve ter objetivos claros, como a criação de uma reserva de emergência ou a realização de sonhos (compra de um imóvel, troca de carro, aposentadoria)
-. Uma estratégia recomendada é "pagar-se primeiro": trate o valor destinado ao investimento como um "custo" fixo e separe-o logo que receber a sua renda, em vez de esperar pelo que sobrar no fim do mês
-.
-Dicas adicionais para o sucesso do orçamento:
-Envolvimento familiar: O uso do dinheiro geralmente envolve mais de uma pessoa. É vital que todos os membros da família participem e estejam comprometidos com o planeamento definido
-.
-Escolha a ferramenta certa: Utilize o instrumento com que se sinta mais confortável, seja um simples caderno, uma planilha de computador ou aplicações de telemóvel
-.
-Evite misturar contas: Para quem é empreendedor, um erro comum que deve ser evitado é misturar as despesas pessoais com as da empresa
-.
-Consistência: No início, pode haver dificuldades ou erros nas estimativas, mas a prática leva à organização e ao controlo real das finanças
+Este repositório reúne materiais práticos para organizar as finanças da família, montar um orçamento mensal e criar uma base para decisões financeiras mais conscientes.
+
+## Objetivo
+
+O foco principal é manter um orçamento superavitário, em que as despesas sejam menores do que as receitas, permitindo:
+
+- maior controle do dinheiro;
+- definição de prioridades;
+- criação de reserva de emergência;
+- planejamento de metas de curto, médio e longo prazo.
+
+## Estrutura do conteúdo
+
+### [PlanejarFinancas.md](PlanejarFinancas.md)
+
+Guia principal de estudo e planejamento financeiro. Reúne:
+
+- objetivos de aprendizado;
+- fontes confiáveis para consulta;
+- exemplos de prompts para uso com IA;
+- conceitos essenciais sobre orçamento, reserva de emergência e mercado de capitais.
+
+### [ExemploOrcamentoFamiliar.md](ExemploOrcamentoFamiliar.md)
+
+Exemplo prático de orçamento mensal com uma família fictícia, mostrando:
+
+- receitas e despesas registradas;
+- agrupamento por categorias;
+- análise do saldo do mês;
+- planejamento do mês seguinte;
+- definição de metas.
+
+## Passo a passo recomendado
+
+1. Registrar todas as receitas e despesas.
+2. Organizar os gastos por categoria.
+3. Comparar o total recebido com o total gasto.
+4. Planejar o mês seguinte com base no histórico.
+5. Definir metas e separar parte da renda para poupança ou investimento.
+
+## Boas práticas
+
+- Envolver todos os membros da família nas decisões financeiras.
+- Usar uma ferramenta simples e consistente, como caderno, planilha ou aplicativo.
+- Evitar misturar finanças pessoais com despesas de trabalho ou empresa.
+- Revisar o orçamento todos os meses para ajustar hábitos e prioridades.
+
+## Material de apoio
+
+O projeto também faz referência ao arquivo `livro_eletronico_completo.pdf`, usado como apoio para estudo sobre Tesouro Direto e educação financeira.

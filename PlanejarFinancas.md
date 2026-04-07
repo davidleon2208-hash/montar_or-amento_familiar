@@ -1,77 +1,112 @@
-📊 Planejamento Financeiro Pessoal e Mercado de Capitais
-1. Contexto e Objetivos
+# Planejamento Financeiro Pessoal
 
-Assunto:
-Planejamento Financeiro Pessoal e Introdução ao Mercado de Capitais Brasileiro.
+## 1. Contexto
 
-🎯 Objetivos de Estudo
-Sistematização de Orçamento:
-Dominar métodos de alocação de recursos (como a regra 50/30/20) para garantir previsibilidade financeira.
-Análise de Ativos:
-Compreender a diferença técnica entre Renda Fixa (pós e prefixada) e Renda Variável.
-Tomada de Decisão Baseada em Dados:
-Utilizar o NotebookLM para cruzar informações de diferentes fontes e identificar as melhores estratégias de investimento de acordo com o cenário macroeconômico atual.
-2. 📚 Curadoria de Fontes
+Este material organiza um roteiro de estudo sobre planejamento financeiro pessoal e introdução ao mercado de capitais brasileiro. A proposta é unir controle do orçamento doméstico com fundamentos básicos de investimento.
 
-Para obter melhores resultados com IA (NotebookLM), utilize fontes confiáveis:
+## 2. Objetivos de estudo
 
-Banco Central do Brasil:
-Caderno de Educação Financeira — Gestão de Finanças Pessoais
-https://www.bcb.gov.br/pre/pef/port/caderno_formacao_treinadores.pdf
-CVM (Comissão de Valores Mobiliários):
-Guia da CVM para Investidores — Portal do Investidor
-https://www.gov.br/investidor/pt-br
-Banco Central (Relatório Focus):
-Última edição em PDF (dados de Selic, IPCA, PIB)
-Tesouro Direto:
-Livro Branco do Tesouro Direto
-https://www.tesourodireto.com.br/sobre-o-tesouro/quem-somos
-https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/28684_893377/livro_eletronico_completo.pdf
-3. 🧠 Engenharia de Prompts e "Cicatrizes"
-🔹 Prompt 1: O Genérico (Baixa Precisão)
+### Sistematizacao do orçamento
 
-"Resuma o que os documentos dizem sobre investimentos."
+- compreender métodos de alocação de recursos, como a regra `50/30/20`;
+- criar previsibilidade financeira;
+- fortalecer o acompanhamento mensal das despesas.
 
-Resultado:
-Resposta vaga, misturando conceitos de renda fixa e variável.
+### Analise de ativos
 
-Dificuldade:
-A IA não considerou liquidez e prazos de resgate.
+- entender a diferença entre renda fixa e renda variável;
+- distinguir títulos prefixados e pós-fixados;
+- relacionar risco, liquidez e prazo.
 
-🔹 Prompt 2: O Estruturado (Refinamento)
+### Tomada de decisão com base em dados
 
-"Atue como um analista financeiro. Com base na fonte [Nome do PDF do BCB], extraia os 5 principais erros cometidos na montagem de uma reserva de emergência e apresente-os em uma tabela comparando Risco vs. Retorno."
+- comparar informações de fontes confiáveis;
+- usar IA para resumir, cruzar e revisar conteúdos;
+- adaptar estratégias ao cenário macroeconômico.
 
-Resultado:
-Resposta mais técnica e útil.
+## 3. Fontes recomendadas
 
-Cicatriz / Lição:
-Definir um papel (ex: analista financeiro) melhora a qualidade e precisão da resposta.
+Para estudos, revisões e uso com ferramentas de IA, priorize fontes institucionais e materiais oficiais.
 
-4. 📘 Miniguia de Estudo (Entrega Final)
-💡 O Pilar da Reserva de Emergência
+| Fonte | Conteúdo | Link |
+| --- | --- | --- |
+| Banco Central do Brasil | Caderno de Educação Financeira e gestão de finanças pessoais | https://www.bcb.gov.br/pre/pef/port/caderno_formacao_treinadores.pdf |
+| CVM | Portal do investidor e guias introdutórios | https://www.gov.br/investidor/pt-br |
+| Banco Central do Brasil | Relatório Focus para acompanhar Selic, IPCA e PIB | https://www.bcb.gov.br/publicacoes/focus |
+| Tesouro Direto | Informações institucionais e material educativo | https://www.tesourodireto.com.br/sobre-o-tesouro/quem-somos |
+| Tesouro Direto | Livro Branco do Tesouro Direto | https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/28684_893377/livro_eletronico_completo.pdf |
 
-A base de qualquer planejamento financeiro é a proteção.
+## 4. Estrategia de prompts para IA
 
-Deve cobrir 6 a 12 meses do custo de vida
-Investida em ativos com:
-Baixa volatilidade
-Alta liquidez
-📈 Fórmula de Juros Compostos
-    𝐴 = 𝑃(1+𝑟)𝑛
+Uma boa consulta depende da clareza do pedido. Quanto mais específico for o prompt, melhor tende a ser a resposta.
+
+### Exemplo 1: prompt genérico
+
+> "Resuma o que os documentos dizem sobre investimentos."
+
+**Resultado esperado:**
+Resposta ampla, com pouca separação entre conceitos.
+
+**Limitação:**
+Pode misturar renda fixa e renda variável sem considerar liquidez, prazo ou perfil de risco.
+
+### Exemplo 2: prompt estruturado
+
+> "Atue como um analista financeiro. Com base no material do Banco Central, extraia os 5 principais erros na montagem de uma reserva de emergência e apresente uma comparação entre risco, liquidez e retorno."
+
+**Resultado esperado:**
+Resposta mais técnica, específica e útil para tomada de decisão.
+
+**Aprendizado:**
+Definir o papel da IA, a fonte e o formato da resposta melhora bastante a qualidade do resultado.
+
+## 5. Mini guia de estudo
+
+### Reserva de emergência
+
+A reserva de emergência é a base do planejamento financeiro. Em geral, deve buscar cobertura de `6 a 12 meses` do custo de vida da família.
+
+Características desejadas:
+
+- baixa volatilidade;
+- alta liquidez;
+- acesso simples ao recurso em caso de necessidade.
+
+### Juros compostos
+
+Formula básica:
+
+```text
+A = P(1 + r)^n
+```
+
 Onde:
 
-A = valor acumulado
-P = valor inicial investido
-r = taxa de juros
-n = número de períodos
-📖 Glossário de Conceitos
-Termo	Definição
-SELIC	Taxa básica de juros da economia brasileira
-IPCA	Índice oficial de inflação
-Marcação a Mercado	Atualização do valor de títulos conforme preço atual
-FGC	Fundo que protege investimentos em caso de quebra do banco
-🔁 Prompts Reutilizáveis para Revisão
-"Explique o impacto de uma alta de 1% na SELIC sobre os títulos de Tesouro Prefixado."
-"Crie um checklist de 5 passos para analisar a saúde financeira de uma empresa com base no Guia da CVM."
-"Compare as vantagens fiscais entre LCI/LCA e CDB."
+- `A`: valor acumulado;
+- `P`: valor inicial investido;
+- `r`: taxa de juros;
+- `n`: número de períodos.
+
+### Glossario essencial
+
+| Termo | Definição |
+| --- | --- |
+| SELIC | Taxa básica de juros da economia brasileira |
+| IPCA | Índice oficial de inflação |
+| Marcação a mercado | Atualização do preço de um título conforme as condições atuais do mercado |
+| FGC | Fundo que protege certos investimentos em caso de quebra da instituição financeira |
+
+## 6. Prompts reutilizaveis
+
+- "Explique o impacto de uma alta de 1% na SELIC sobre títulos prefixados."
+- "Crie um checklist de 5 passos para analisar a saúde financeira de uma empresa com base nos materiais da CVM."
+- "Compare LCI, LCA e CDB em termos de risco, liquidez, tributação e perfil de investidor."
+
+## 7. Como usar este arquivo
+
+Use este material como referência para:
+
+- estudar conceitos centrais de finanças pessoais;
+- montar perguntas melhores para IA;
+- complementar o orçamento doméstico com noções básicas de investimento;
+- revisar decisões financeiras com base em fontes confiáveis.

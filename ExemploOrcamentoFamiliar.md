@@ -1,83 +1,85 @@
-📌 Exemplo: Família Silva (mês de Janeiro)
+# Exemplo de Orcamento Familiar
 
-1. Anotar todas as receitas e despesas
+## 1. Cenário
 
-Receitas:
+Exemplo fictício da família Silva no mês de janeiro, usado para mostrar como aplicar um controle financeiro simples e funcional.
 
-Salário João: R$ 2.500
-Salário Maria: R$ 1.800
-Extra (freelance): R$ 400
+## 2. Receitas do mês
 
-Total recebido: R$ 4.700
+| Fonte | Valor |
+| --- | ---: |
+| Salário de João | R$ 2.500 |
+| Salário de Maria | R$ 1.800 |
+| Renda extra com freelance | R$ 400 |
+| **Total recebido** | **R$ 4.700** |
 
-Despesas (anotadas diariamente):
+## 3. Despesas registradas
 
-Supermercado: R$ 450 (cartão)
-Padaria: R$ 30 (Pix)
-Aluguel: R$ 1.200 (transferência)
-Energia: R$ 180 (Pix)
-Internet: R$ 100 (cartão)
-Uber: R$ 120 (cartão)
-Farmácia: R$ 90 (dinheiro)
-Lazer (cinema): R$ 80 (cartão)
+| Despesa | Valor | Meio de pagamento |
+| --- | ---: | --- |
+| Supermercado | R$ 450 | Cartão |
+| Padaria | R$ 30 | Pix |
+| Aluguel | R$ 1.200 | Transferência |
+| Energia | R$ 180 | Pix |
+| Internet | R$ 100 | Cartão |
+| Uber | R$ 120 | Cartão |
+| Farmácia | R$ 90 | Dinheiro |
+| Cinema | R$ 80 | Cartão |
 
-2. Agrupar por categorias
+## 4. Despesas por categoria
 
-Despesas:
-Categoria	    Valor (R$)
-Habitação	    1.480 (aluguel + energia + internet)
-Alimentação	    480 (supermercado + padaria)
-Transporte	    120
-Saúde	        90
-Lazer	        80
-Total	        2.250
+| Categoria | Valor |
+| --- | ---: |
+| Habitação | R$ 1.480 |
+| Alimentação | R$ 480 |
+| Transporte | R$ 120 |
+| Saúde | R$ 90 |
+| Lazer | R$ 80 |
+| **Total gasto** | **R$ 2.250** |
 
-3. Analisar a situação financeira
-Total recebido: R$ 4.700
-Total gasto: R$ 2.250
+## 5. Analise do mês
 
-✅ Saldo positivo: R$ 2.450
+| Indicador | Valor |
+| --- | ---: |
+| Total recebido | R$ 4.700 |
+| Total gasto | R$ 2.250 |
+| **Saldo final** | **R$ 2.450** |
 
-👉 Análise:
+Conclusões principais:
 
-A família está gastando menos do que ganha 👍
-Pode começar a investir ou guardar dinheiro
-Alimentação e moradia são os maiores custos
+- a família gastou menos do que recebeu;
+- alimentação e habitação concentram a maior parte das despesas;
+- há espaço para começar uma reserva de emergência.
 
-4. Planejar o mês seguinte
+## 6. Planejamento para o mês seguinte
 
-Previsão para Fevereiro:
+Projeção para fevereiro:
 
-Manter aluguel: R$ 1.200
-Reduzir supermercado para: R$ 400
-Separar lazer com limite: R$ 100
-Criar nova categoria: Poupança
+- manter aluguel em `R$ 1.200`;
+- reduzir supermercado para `R$ 400`;
+- limitar lazer a `R$ 100`;
+- criar a categoria `Poupança`.
 
-👉 Planejamento:
+Decisões práticas:
 
-Reservar R$ 500 para emergência
-Evitar gastos pequenos desnecessários
-5. Estabelecer metas + Regra de Ouro
+- separar `R$ 500` logo no início do mês;
+- evitar gastos pequenos sem planejamento;
+- acompanhar os gastos por categoria durante o mês.
 
-🎯 Metas da família:
+## 7. Metas e regra de ouro
 
-Criar reserva de emergência: R$ 10.000
-Comprar um carro em 2 anos
+### Metas da família
 
-💡 Regra de Ouro aplicada:
+- montar uma reserva de emergência de `R$ 10.000`;
+- comprar um carro em `2 anos`.
 
-Assim que receber os R$ 4.700 → separar R$ 500 automaticamente
-Esse valor vira prioridade, não sobra
-✅ Dicas aplicadas no exemplo
+### Regra de ouro aplicada
 
-✔ Toda a família participa (João e Maria decidem juntos)
-✔ Usaram uma planilha simples no Excel
-✔ Não misturaram despesas com trabalho
-✔ Mantiveram consistência no controle
+Assim que a renda entra, a família separa `R$ 500` automaticamente. Esse valor passa a ser tratado como prioridade do orçamento, e não como sobra eventual.
 
-💡 Resumo simples
-Anotaram tudo
-Organizaram por categorias
-Viram que sobrava dinheiro
-Planejaram melhor o próximo mês
-Começaram a guardar dinheiro
+## 8. Aprendizados do exemplo
+
+- registrar tudo ajuda a enxergar o orçamento real;
+- categorizar facilita identificar excessos;
+- planejar o mês seguinte melhora a previsibilidade;
+- guardar dinheiro no início do mês aumenta a chance de cumprir metas.
