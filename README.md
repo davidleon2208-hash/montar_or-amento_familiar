@@ -1,4 +1,4 @@
-# montar_or-amento_familiar
+# montar_orcamento_familiar
 O objetivo principal é alcançar um orçamento superavitário, onde as despesas sejam sempre menores que as receitas
 
 Aqui estão os passos práticos detalhados:
@@ -32,4 +32,3 @@ Escolha a ferramenta certa: Utilize o instrumento com que se sinta mais confort�
 Evite misturar contas: Para quem é empreendedor, um erro comum que deve ser evitado é misturar as despesas pessoais com as da empresa
 .
 Consistência: No início, pode haver dificuldades ou erros nas estimativas, mas a prática leva à organização e ao controlo real das finanças
-
